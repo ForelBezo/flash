@@ -3,9 +3,9 @@
 
 For using the code of cypress here are the steps to follow:
 
-git clone https://github.com/ForelBezo/flash/
-npm install
-npx cypress open (Opens the cypress Test Runner)
+1.git clone https://github.com/ForelBezo/flash/
+2.npm install
+3.npx cypress open (Opens the cypress Test Runner)
 Launch your test
 
 enjoy!
