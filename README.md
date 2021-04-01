@@ -5,8 +5,8 @@ For using the code of cypress here are the steps to follow:
 
 1. git clone https://github.com/ForelBezo/flash/
 2. npm install
-3. npx cypress open (Opens the cypress Test Runner)
-Launch your test
+3. npx cypress open (Open Test Runner of Cypress)
+4. Launch your test
 
 enjoy!
 
